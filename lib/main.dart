@@ -75,7 +75,7 @@ class _TravelHomePageState extends State<TravelHomePage> {
             controller: _pageController,
             children: const [
               LocationPage(
-                imagePath: 'assets/chamarra.jpg',
+                image: 'https://raw.githubusercontent.com/Luis-Herrera1207/Act1_UIII/refs/heads/main/assets/chamarra.jpg',
                 locationName: 'CHAMARRA DE CUERO',
                 rating: 4.0,
                 reviews: 2000,
@@ -83,7 +83,7 @@ class _TravelHomePageState extends State<TravelHomePage> {
                     "Chamarra de cuero estilo aviador, con cuello de piel de oveja. Clásica, robusta y con parches que le dan un toque vintage. Ideal para un estilo distintivo.",
               ),
               LocationPage(
-                imagePath: 'assets/nike.jpg',
+                image: 'https://raw.githubusercontent.com/Luis-Herrera1207/Act1_UIII/refs/heads/main/assets/nike.jpg',
                 locationName: 'NIKES TRAVIS SCOTT',
                 rating: 4.0,
                 reviews: 2000,
@@ -91,7 +91,7 @@ class _TravelHomePageState extends State<TravelHomePage> {
                     "Estos tenis destacan por su estética de tonos terrosos y un diseño de corte bajo. Ofrecen una combinación perfecta de estilo moderno y versatilidad, ideales para complementar una amplia gama de atuendos casuales con un toque contemporáneo.",
               ),
               LocationPage(
-                imagePath: 'assets/short.jpg',
+                image: 'https://raw.githubusercontent.com/Luis-Herrera1207/Act1_UIII/refs/heads/main/assets/short.jpg',
                 locationName: 'SHORT',
                 rating: 4.0,
                 reviews: 2000,
